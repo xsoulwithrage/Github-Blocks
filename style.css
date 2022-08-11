@@ -1,0 +1,73 @@
+body {
+      background-color: lightblue;
+}
+h1 {
+      color: darkblue;
+      text-align: center;
+}
+
+span {
+      color: rgb(0, 255, 234);
+}
+.hero {
+      background-color: lavender;
+}
+.image1 {
+      position: relative;
+height:299px;
+width: 291px;
+}
+.image2 {
+      padding-top: 50px;
+      padding-bottom: 30px;
+      padding-right: 50px;
+height:299px;
+width: 291px;
+}
+
+.image3 {
+      position:relative;
+height:299px;
+width: 291px;
+}
+.cierre {
+}
+.hero2 {
+      background-color: lavender;
+}
+.imagen1 {
+      position:relative;
+height:299px;
+width: 291px;
+}
+.imagen2 {
+      position:relative;
+height:299px;
+width: 291px;
+}
+.cierre2 {
+
+}
+.hero3 {
+      background-color: lavender;
+}
+.imagex1 {
+      position:relative;
+height:299px;
+width: 291px;
+}
+.imagex2 {
+      position:relative;
+height:299px;
+width: 291px;
+}
+.imagex3 {
+      position:relative;
+      height:299px;
+      width: 291px;
+}
+.cierre3 { 
+}
+
+
+
